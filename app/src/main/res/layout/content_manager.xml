@@ -37,7 +37,7 @@
                 android:layout_height="0dp"
                 android:layout_weight="80"
                 android:padding="2dp"
-                app:srcCompat="@drawable/register_user" />
+                app:srcCompat="@drawable/register_user2" />
 
             <TextView
                 android:id="@+id/textViewAdd"
@@ -61,7 +61,7 @@
                 android:layout_height="0dp"
                 android:layout_weight="80"
                 android:padding="2dp"
-                app:srcCompat="@drawable/user_management" />
+                app:srcCompat="@drawable/user_management2" />
 
             <TextView
                 android:id="@+id/textViewUser"
@@ -95,12 +95,12 @@
             android:weightSum="100">
 
             <ImageView
-                android:id="@+id/imageViewProfile"
+                android:id="@+id/imageViewSettingManager"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="80"
                 android:padding="2dp"
-                app:srcCompat="@drawable/edit_user" />
+                app:srcCompat="@drawable/setting2" />
 
             <TextView
                 android:id="@+id/textViewProfile"
@@ -124,7 +124,7 @@
                 android:layout_height="0dp"
                 android:layout_weight="80"
                 android:padding="2dp"
-                app:srcCompat="@drawable/out" />
+                app:srcCompat="@drawable/out2" />
 
             <TextView
                 android:id="@+id/textViewUsers"
