@@ -11,9 +11,30 @@
     </style>
 
     <style name="AppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/blue</item>
+    <item name="colorPrimaryDark">@color/blueDark</item>
+    <item name="colorAccent">@color/colorBlack</item>
+    <item name="elevation">0dp</item>
+
+    <item name="android:textColor">@color/colorBlack</item>
+</style>
+
+    <style name="AppThemeManager" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/blue</item>
-        <item name="colorPrimaryDark">@color/blueDark</item>
+        <item name="colorPrimary">@color/manager</item>
+        <item name="colorPrimaryDark">@color/managerDark</item>
+        <item name="colorAccent">@color/colorBlack</item>
+        <item name="elevation">0dp</item>
+
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+
+    <style name="AppThemeMarketing" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/marketing</item>
+        <item name="colorPrimaryDark">@color/marketingDark</item>
         <item name="colorAccent">@color/colorBlack</item>
         <item name="elevation">0dp</item>
 

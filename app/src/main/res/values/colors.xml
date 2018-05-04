@@ -14,4 +14,8 @@
     <color name="green">#07d634</color>
     <color name="greenDark">#05ac29</color>
     <color name="duskYellow">#e9d32e</color>
+    <color name="marketing">#cc10a6</color>
+    <color name="marketingDark">#b1008d</color>
+    <color name="manager">#d61548</color>
+    <color name="managerDark">#be0335</color>
 </resources>
